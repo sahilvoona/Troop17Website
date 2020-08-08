@@ -1535,7 +1535,9 @@ section {
 }
 
 #footer .credits {
+  text-align: center;
   font-size: 1px;
+  color: #0f0f0f;
 }
 
 #footer .credits a {
