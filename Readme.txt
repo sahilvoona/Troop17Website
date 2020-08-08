@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: KnightOne
-Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is the github repository for the Troop 17 Website. 
