@@ -1535,14 +1535,16 @@ section {
 }
 
 #footer .credits {
+  text-align: center;
   font-size: 1px;
+  color: #0f0f0f;
 }
 
 #footer .credits a {
-  color: #00b371;
+  color: #0f0f0f;
   transition: 0.3s;
 }
 
 #footer .credits a:hover {
-  color: #009961;
+  color: #0f0f0f;
 }
