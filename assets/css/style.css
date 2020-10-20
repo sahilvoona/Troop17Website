@@ -411,20 +411,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .more-photos-btn {
-  margin-inline: 25px;
   background: #009961;
+  border: 0;
+  padding: 10px 30px;
   color: #fff;
+  transition: 0.4s;
   border-radius: 50px;
-  padding: 8px 25px 9px 25px;
-  white-space: nowrap;
-  transition: 0.3s;
-  font-size: 14px;
-  display: inline-block;
-}
-
-.get-started-btn:hover {
-  background: #00b371;
-  color: #fff;
 }
 
 @media (max-width: 992px) {
