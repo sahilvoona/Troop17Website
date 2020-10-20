@@ -417,6 +417,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   transition: 0.4s;
   border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.more-photos-btn:hover {
+  background: white;
 }
 
 
